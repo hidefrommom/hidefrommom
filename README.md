@@ -5,9 +5,111 @@
 
 - 📫 How to reach me **hide@c0mic.lol**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://offeescript.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coffeescript/coffeescript-original-wordmark.svg" alt="coffeescript" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.perl.org/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<hr>
+  <h2 align="center">My tech stack</h2>
+  
+  <p align="center">
+    <a href="https://www.php.net/" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/PHP-787CB5?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+    </a>
+    <a href="https://www.python.org/" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Python-FFD343?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
+    </a>
+    <a href="https://www.gnu.org/software/bash/" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
+    </a>
+    <a href="https://www.mysql.com/" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/SQL-00618A?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+    </a>
+    <a href="https://laravel.com/" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+    </a>
+    <a href="https://nodejs.org/" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+    </a>
+    <a href="https://www.arduino.cc/" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
+    </a>
+    <a href="https://ubuntu.com/" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
+    </a>
+    <a href="https://almalinux.org/" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/AlmaLinux-2C5CC5?style=for-the-badge&logo=almalinux&logoColor=white" alt="AlmaLinux">
+    </a>
+    <a href="https://termux.com/" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white" alt="Termux">
+    </a>
+    <a href="https://www.virtualizor.com/" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Virtualizor-5296D6?style=for-the-badge&logo=virtualizor&logoColor=white" alt="Virtualizor">
+    </a>
+    <a href="https://userland.tech/" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/UserLAnd-000000?style=for-the-badge&logo=userland&logoColor=white" alt="UserLAnd">
+    </a>
+    <a href="https://www.docker.com/" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+    </a>
+    <a href="https://www.cloudflare.com/" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Cloudflare-F48120?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare">
+    </a>
+    <a href="https://www.configserver.com/cp/csf.html" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/CSF-D81B60?style=for-the-badge&logo=csf&logoColor=white" alt="CSF">
+    </a>
+    <a href="https://uptime.kuma.app/" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Uptime_Kuma-4CAF50?style=for-the-badge&logo=uptime-kuma&logoColor=white" alt="Uptime Kuma">
+    </a>
+    <a href="https://www.zabbix.com/" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix">
+    </a>
+    <a href="https://prometheus.io/" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus">
+    </a>
+    <a href="https://grafana.com/" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana">
+    </a>
+    <a href="https://wazuh.com/" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Wazuh-00A6D6?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh">
+    </a>
+    <a href="https://suricata.io/" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Suricata-1E1E1E?style=for-the-badge&logo=suricata&logoColor=white" alt="Suricata">
+    </a>
+    <a href="https://www.casaos.io/" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/CasaOS-FF6600?style=for-the-badge&logo=casaos&logoColor=white" alt="CasaOS">
+    </a>
+    <a href="https://jellyfin.org/" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Jellyfin-DB2F3E?style=for-the-badge&logo=jellyfin&logoColor=white" alt="Jellyfin">
+    </a>
+    <a href="https://kubernetes.io/" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+    </a>
+    <a href="https://www.portainer.io/" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Portainer-6B58E9?style=for-the-badge&logo=portainer&logoColor=white" alt="Portainer">
+    </a>
+    <a href="https://www.proxmox.com/en/" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Proxmox-8B8B8B?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox">
+    </a>
+    <a href="https://tenantos.com/" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/TenantOS-7D8CFF?style=for-the-badge&logo=tenantos&logoColor=white" alt="TenantOS">
+    </a>
+    <a href="https://www.webmin.com/" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Webmin-2E6C7D?style=for-the-badge&logo=webmin&logoColor=white" alt="Webmin">
+    </a>
+    <a href="https://astro.build/" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Astro-FF5C00?style=for-the-badge&logo=astro&logoColor=white" alt="Astro">
+    </a>
+    <a href="https://svelte.dev/" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte">
+    </a>
+    <a href="https://vuejs.org/" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
+    </a>
+  </p>
+</hr>
