@@ -12,7 +12,7 @@ hidЭ™@root: ~ $ sh hidЭ™.sh
 who I am?: hello guys, im hidЭ™,
 ```
 
-<h1 align="center">Hi 👋, I'm hide</h1>
+
 <h3 align="center">im a dev</h3>
 
 - 🌱 I’m currently learning **Temple os**
