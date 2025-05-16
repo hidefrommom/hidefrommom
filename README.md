@@ -19,6 +19,10 @@ who I am?: hello guys, im hidЭ™,
 
 - 📫 How to reach me **hide@c0mic.lol**
 
+- `🚀` **CMO at __AstralHosting__**
+- `🖥️` **AS213762**
+- `🌐` https://discord.astralhosting.cloud
+
 <hr>
   <h2 align="center">My tech stack</h2>
   
